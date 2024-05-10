@@ -1,1 +1,3 @@
 # Bus-Reservation-System
+
+This C program implements an online bus reservation system. It allows users to view a list of available buses, book tickets, cancel bookings, check bus seat availability, and obtain reservation information. Users can log in securely, select their desired bus, book regular or physically disabled seats, and receive a unique reservation number. The program also provides functionality to cancel bookings using the reservation number. Additionally, it calculates ticket costs based on the chosen bus and seat. The system ensures user-friendly interaction and efficient management of bus reservations
